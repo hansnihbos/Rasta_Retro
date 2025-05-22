@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2256.19 241.56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        mix-blend-mode: multiply;
+        opacity: .61;
+      }
+
+      .cls-3 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-6 {
+        fill: #ffe0c7;
+      }
+
+      .cls-6, .cls-7 {
+        mix-blend-mode: overlay;
+      }
+
+      .cls-8 {
+        fill: #445991;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1126.34" y1="268.03" x2="1130.77" y2="-104.04" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#77c5ff"/>
+      <stop offset="1" stop-color="#6d70c9"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="120.78" x2="2256.19" y2="120.78" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#122a8a"/>
+      <stop offset="1" stop-color="#1e1866"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="1128.1" cy="120.78" fx="1128.1" fy="120.78" r="794.02" gradientTransform="translate(0 82.1) scale(1 .32)" gradientUnits="userSpaceOnUse">
+      <stop offset=".16" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".85" stop-color="#ffd0ab"/>
+    </radialGradient>
+  </defs>
+  <g class="cls-5">
+    <g id="Layer_2" data-name="Layer 2">
+      <g id="Layer_1-2" data-name="Layer 1">
+        <g>
+          <g>
+            <path class="cls-4" d="M2245.59,38.83v163.89c0,15.59-39.47,28.23-88.15,28.23H98.75c-48.68,0-88.15-12.64-88.15-28.23V38.83c0-15.59,39.47-28.23,88.15-28.23h2058.69c48.68,0,88.15,12.64,88.15,28.23Z"/>
+            <path class="cls-1" d="M2157.44,10.6c48.68,0,88.15,12.64,88.15,28.23v163.89c0,15.59-39.47,28.23-88.15,28.23H98.75c-48.68,0-88.15-12.64-88.15-28.23V38.83c0-15.59,39.47-28.23,88.15-28.23h2058.69M2157.44,0H98.75c-24.61,0-47.89,3.12-65.56,8.77C5.76,17.56,0,29.97,0,38.83v163.89c0,8.86,5.76,21.27,33.19,30.06,17.67,5.66,40.95,8.78,65.56,8.78h2058.69c24.61,0,47.89-3.12,65.56-8.78,27.43-8.79,33.19-21.2,33.19-30.06V38.83c0-8.86-5.76-21.27-33.19-30.06-17.67-5.66-40.95-8.77-65.56-8.77h0Z"/>
+          </g>
+          <g class="cls-2">
+            <path class="cls-8" d="M2245.59,94.76v107.97c0,15.59-39.47,28.23-88.15,28.23H98.75c-48.68,0-88.15-12.64-88.15-28.23v-110.44c281.09,18.15,1271.66,71.99,2234.99,2.48Z"/>
+          </g>
+          <g class="cls-7">
+            <path class="cls-3" d="M2195.7,19.43c22.64,0,41.06,18.42,41.06,41.06v120.58c0,22.64-18.42,41.06-41.06,41.06H60.49c-22.64,0-41.06-18.42-41.06-41.06V60.49c0-22.64,18.42-41.06,41.06-41.06h2135.22M2195.7,10.6H60.49c-27.55,0-49.89,22.34-49.89,49.89v120.58c0,27.55,22.34,49.89,49.89,49.89h2135.22c27.55,0,49.89-22.34,49.89-49.89V60.49c0-27.55-22.34-49.89-49.89-49.89h0Z"/>
+          </g>
+          <g>
+            <ellipse class="cls-6" cx="827.09" cy="18.6" rx="64.74" ry="6.08"/>
+            <ellipse class="cls-6" cx="827.09" cy="28.66" rx="24.07" ry="2.26"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
